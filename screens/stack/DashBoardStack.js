@@ -4,12 +4,16 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 import MainScreen from '../dashboard/MainScreen';
 
-const RootStack = createStackNavigator();
+const MainStack = createStackNavigator();
 
 const DashBoardStackScreen = () => (
-    <RootStack.Navigator screenOptions={{ headerMode: 'none'}}>
-        <RootStack.Screen name="MainScreen" component={MainScreen}/>
-    </RootStack.Navigator>
+    <MainStack.Navigator
+        screenOptions={{
+            title: 'Account'
+        }}
+    >
+        <MainStack.Screen name="MainScreen" component={MainScreen}/>
+    </MainStack.Navigator>
 );
 
 export default DashBoardStackScreen;
