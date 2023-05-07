@@ -1,0 +1,25 @@
+{
+  "_redirectEventId": undefined,
+  "apiKey": "AIzaSyA4H_j92vQV75fw_YhaZgs8-imBNhuPUYM",
+  "appName": "[DEFAULT]",
+  "createdAt": "1683460388500",
+  "displayName": undefined,
+  "email": "aytc.unal@gmail.com",
+  "emailVerified": false,
+  "isAnonymous": false,
+  "lastLoginAt": "1683460388500",
+  "phoneNumber": undefined,
+  "photoURL": undefined,
+  "providerData": [
+    [
+      Object
+    ]
+  ],
+  "stsTokenManager": {
+    "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImI2NzE1ZTJmZjcxZDIyMjQ5ODk1MDAyMzY2ODMwNDc3Mjg2Nzg0ZTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZXhwby1maXJlYmFzZS1sb2dpbi0yZGY4ZCIsImF1ZCI6ImV4cG8tZmlyZWJhc2UtbG9naW4tMmRmOGQiLCJhdXRoX3RpbWUiOjE2ODM0NjAzODgsInVzZXJfaWQiOiIwU3RTZ1l4OTVKWHVpQjNvV3loblludkp1SUMyIiwic3ViIjoiMFN0U2dZeDk1Slh1aUIzb1d5aG5ZbnZKdUlDMiIsImlhdCI6MTY4MzQ2MDM4OCwiZXhwIjoxNjgzNDYzOTg4LCJlbWFpbCI6ImF5dGMudW5hbEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYXl0Yy51bmFsQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.XzFMb0b_u5isBxqIaM1VuQNOnd6Cafh4aCF7JzhC-k1f_DCp7PnzwtxECVn2jHIpaHsyAYYE7R0CRsTDe-_U9BVgjPZJO0DaShzZR0ka8EXlGPIFF9rxShs1012pI48HMbCZFDc_xDR7KOYv0jwaD_I5qlRexhtY8ppbUhdS3dZkf-Wfu_9z-KmGXFARVPX-kC96PRkVKv8iwgV8rrfEoTVX4ro70FWxu2OMYGzsNa8TvGax9nB1GUzhT1ukn69vxYgZfjoCB8-aFWFeSqnZ3BdpkLr2uvzWrpESqaJr1AqkEVzcG7WPv72oQYITaD7JkxK_DUNjaFLcN2J_tJG__A",
+    "expirationTime": 1683463988738,
+    "refreshToken": "APZUo0QZe9I-VZ34Ti9XI771uiyI9cB1dgwnm_juw-3xkA5xPt2FVhLe5Xw11jPd7toVBBy5eCN4hUDZMHUVneCk9C-gg6tpDtKT2crXLlnyd7UWQ5s0accxqD45Ziv98RFUi0MPchWg8n4DMnsI0jE91293pZfsF9kl8E9xUaGDzRiEqKyoMcnc6n-i_47Ak6Ob62YiSWpL7IMg1XnjGkDO5qHejo9K31xdxTUWHiS6gR5diF4aezs"
+  },
+  "tenantId": undefined,
+  "uid": "0StSgYx95JXuiB3oWyhnYnvJuIC2"
+}
